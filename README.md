@@ -1,1 +1,3 @@
-# aula_07
+Configurei, neste exercício, um projeto "React" para utilizar o "Reactstrap", uma biblioteca que fornece componentes baseados no "Bootstrap" para "React". Instalei as dependências necessárias, como "reactstrap", "bootstrap", e outras, através do comando "npm install". Em seguida, configurei o "Bootstrap" no arquivo "index.js" para aplicar seus estilos, e modifiquei o componente "App.js" para incluir uma barra de navegação utilizando o "Reactstrap", com o nome "Ristorante Con Fusion" e meu nome (aluno), "Victor Ramos André Vila", exibido na tela. Ao final, o aplicativo foi configurado com sucesso para usar os componentes do Reactstrap, proporcionando uma navegação funcional e estilizada.
+
+![alt text](image-2.png)
